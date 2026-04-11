@@ -1,3 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
 C:/Users/Admin/Documents/gtImmerse/VRduino/VRduino_unity/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+*/VRduino_unity/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
